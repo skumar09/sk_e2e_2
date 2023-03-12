@@ -1,0 +1,22 @@
+{
+  "name": "sk_e2e_2",
+  "version": "1.0.0",
+  "description": "sk_e2e_2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skumar09/sk_e2e_2.git"
+  },
+  "keywords": [
+    "sk_e2e"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skumar09/sk_e2e_2/issues"
+  },
+  "homepage": "https://github.com/skumar09/sk_e2e_2#readme"
+}
