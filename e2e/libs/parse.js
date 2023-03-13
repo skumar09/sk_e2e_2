@@ -1,4 +1,4 @@
-const envList = require('./envs/envs.js');
+const envList = require('../envs/env');
 
 /**
  * This file will take a spec file and flatten it to individual
