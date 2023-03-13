@@ -22,6 +22,10 @@ function calculator2(num1, num2, operator) {
   
     return result;
   }
+  console.log('----------------------------'); // Output: 8
+  console.log(calculator3(5, 3, "+")); // Output: 8
+  console.log(calculator3(5, 3, "-")); // Output: 2
+
 module.exports = {
     ise2e,
     calculator2,
