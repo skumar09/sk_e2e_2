@@ -2,7 +2,10 @@
   "name": "sk_e2e_2",
   "version": "1.0.0",
   "description": "sk_e2e_2",
-  "main": "index.js",
+  "main": "e2e/index.js",
+  "files": [
+    "e2e"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

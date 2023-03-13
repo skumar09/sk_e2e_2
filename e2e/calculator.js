@@ -1,4 +1,4 @@
-function calculator(num1, num2, operator) {
+function calculator2(num1, num2, operator) {
     num1 = parseFloat(num1);
     num2 = parseFloat(num2);
     let result;
@@ -18,4 +18,4 @@ function calculator(num1, num2, operator) {
     return result;
   }
   
-  module.exports = calculator;
+  module.exports = calculator2;
