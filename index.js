@@ -1,7 +1,7 @@
 const calculator = require('./e2e/libs/calculator');
 const ise2e = require('./e2e/libs/ise');
 const spec= require('./e2e/libs/parse');
-const { test, expect } = require('@playwright/test');
+//const { test, expect } = require('@playwright/test');
 
 
 console.log(ise2e('sk-s')) // false:
